@@ -1,15 +1,9 @@
 ### Ola meu nome é Matheus Machado Faccin 👋
 
 
-- 🌱 Estudando java
+- 🌱 Estudando desenvolvimento web
 - 😄 Pronouns: ele/dele
-- estudo principalmente lendo livros.
-
-<div align="center">
-  <a href="https://github.com/MatheusMFaccin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMFaccin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMFaccin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- estudo principalmente lendo livros e praticando.
   
 <div style="display: inline_block"><br>
   <img align="center" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
